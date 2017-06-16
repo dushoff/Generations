@@ -17,7 +17,11 @@ include sub.mk
 
 ## This is a meta-repo, whose main purpose is to make a working directory with other repos
 
-dirs = generation_links
+## MS 2 (Gamma approximations)
+dirs += generation_links
+
+######################################################################
+
 dfiles: $(dirs:%=%/Makefile)
 Sources += $(dirs)
 
