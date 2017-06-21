@@ -1,3 +1,6 @@
 [submodule "makestuff"]
 	path = makestuff
 	url = https://github.com/dushoff/makestuff.git
+[submodule "generation_links"]
+	path = generation_links
+	url = https://github.com/dushoff/generation_links.git

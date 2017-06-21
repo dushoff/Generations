@@ -21,7 +21,6 @@ Sources += .gitmodules
 ## MS 2 (Gamma approximations)
 dirs += generation_links
 
-
 ######################################################################
 
 dfiles: $(dirs:%=%/Makefile)
