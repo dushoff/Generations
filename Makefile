@@ -9,6 +9,7 @@ target: $(target)
 
 Sources = Makefile .gitignore README.md sub.mk LICENSE.md
 include sub.mk
+Sources += .gitmodules
 # include $(ms)/perl.def
 
 ##################################################################
