@@ -19,7 +19,7 @@ Sources += .gitmodules
 ## This is a meta-repo, whose main purpose is to make a working directory with other repos
 
 ## MS 2 (Gamma approximations)
-dirs += generation_links
+dirs += generation_links Generation_talks
 
 ######################################################################
 
@@ -30,7 +30,7 @@ Sources += $(dirs)
 
 -include $(ms)/git.mk
 -include $(ms)/visual.mk
--include $(ms)/hmodules.mk
+-include $(ms)/modules.mk
 
 # -include $(ms)/wrapR.mk
 # -include $(ms)/oldlatex.mk
