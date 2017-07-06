@@ -4,3 +4,6 @@
 [submodule "generation_links"]
 	path = generation_links
 	url = https://github.com/dushoff/generation_links.git
+[submodule "Generation_talks"]
+	path = Generation_talks
+	url = https://github.com/dushoff/Generation_talks.git
