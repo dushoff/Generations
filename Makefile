@@ -20,7 +20,7 @@ Sources += .gitmodules
 
 ## MS 2 (Gamma approximations)
 
-mdirs += generation_links Generation_talks
+mdirs += generation_links Generation_talks 
 dirs += $(mdirs)
 
 ######################################################################
