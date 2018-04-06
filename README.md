@@ -15,6 +15,15 @@ We have a lot of potential generation-based projects and we need to get them _ou
 	* A lot of directions to go with this
 	* JD keeps wanting to get the theory out "first" but SWP points out this could take forever. We should work on applied papers, maybe in parallel
 
+Recent email (could be merged)
+
+- temporal effect, contact tracing, and censored GI; underestimation of R and G
+- spatial generation and effective generation
+- speed and strength
+- heterogeneity (we actually did a bit of heterogeneity last last summer with gamma heterogeneity); BB also suggested comparing fits of the models that "accounts" for heterogeneity with exponents and those of homogeneous models and see how our estimates differ (using network sims to simulate heterogeneity). 
+- filtered means
+
+
 Possible examples:
 ==================
 
