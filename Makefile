@@ -23,6 +23,12 @@ Sources += .gitmodules
 mdirs += generation_links Generation_talks 
 dirs += $(mdirs)
 
+## MS 4 (Space and time)
+clonedirs += networkSEIR
+networkSEIR:
+	git clone https://github.com/parksw3/$@
+
+
 ######################################################################
 
 dfiles: $(dirs:%=%/Makefile)
